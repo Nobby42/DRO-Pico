@@ -1,1 +1,1 @@
-# Caliper-with-Pico
+# 4 Channel DRO with Raspberry Pico RP2040
