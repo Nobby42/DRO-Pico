@@ -12023,6 +12023,16 @@
 		)
 		(uuid "427da668-b7c9-4f21-8243-bda3e9102da9")
 	)
+	(text "Display 4x 6-Digit LED TM1637"
+		(exclude_from_sim no)
+		(at 259.588 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9215823d-1415-4468-b2b0-1ff7a7a9c851")
+	)
 	(symbol
 		(lib_id "Device:C")
 		(at 165.1 27.94 0)
